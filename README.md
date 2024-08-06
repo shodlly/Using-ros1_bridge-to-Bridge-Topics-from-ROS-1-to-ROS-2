@@ -36,6 +36,8 @@ This repository provides instructions on how to use `ros1_bridge` to bridge topi
    ```bash
    ros2 run ros1_bridge dynamic_bridge
    ```
+   ![5877365206877850546_120](https://github.com/user-attachments/assets/7cf5f54a-b747-4120-ab22-3fc96ab58631)
+
 
 3. **Bridge Specific Topics**
 
